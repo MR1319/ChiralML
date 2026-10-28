@@ -1,0 +1,10 @@
+# Tested with Python 3.12.3, plus Jupyter as in the repository README. The first five match the repository's
+# analysis environment; torch, scipy and sympy are needed by the bundled SyMANTIC engine (CPU torch is enough).
+numpy==2.1.2
+pandas==2.3.2
+matplotlib==3.10.5
+scikit-learn==1.7.1
+openpyxl==3.1.5
+torch==2.15.0
+scipy==1.18.1
+sympy==1.14.0
